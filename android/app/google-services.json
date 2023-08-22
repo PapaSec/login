@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412444064094",
+    "project_id": "flutter-coffee-login",
+    "storage_bucket": "flutter-coffee-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412444064094:android:68cd5e5348ed724b4df7cf",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412444064094-k0fe9ruilvet2f6s46r8ven6mkeovo4i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-PiToYH3QYLSijs-DONOolWS3pcmNQvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412444064094-k0fe9ruilvet2f6s46r8ven6mkeovo4i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
